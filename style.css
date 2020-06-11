@@ -1,0 +1,23 @@
+body{
+    margin:0px;
+    padding:0px;
+}#elsoparag{
+    color:red;
+}#lilaparag{
+    color:purple;
+}#kreativparag{
+    color:green;
+}#versparag{
+    font-size: '32px';
+    color:indigo;
+}.preparag{
+    background-color: powderblue;
+    width:100%; 
+    padding:0px; 
+    margin:0px; 
+    height:100%; 
+    text-align:center;
+}img{
+    width: 100px;
+    height: 120px;
+}
